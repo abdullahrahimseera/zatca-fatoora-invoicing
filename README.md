@@ -1,2 +1,2 @@
 # zatca-fatoora-invoicing
-Package forZATCA / FATOORA API Integration and Generate the QR code signed and Validated for ZATCA E-invoicing.
+Package for ZATCA / FATOORA API Integration and Generate the QR code signed and Validated for ZATCA E-invoicing.
